@@ -8,6 +8,6 @@
     <img width="125" height="40" src="https://img.shields.io/badge/CSS3-16ACD1?style=for-the-badge&logo=css3&logoColor=white" alt="Youtube Badge"/>
     <img width="175" height="40" src="https://img.shields.io/badge/JAVASCRIPT-922DC5?style=for-the-badge&logo=javascript&logoColor=white" alt="Twitter Badge"/>
     <img width="175" height="40" src="https://img.shields.io/badge/BOOTSTRAP-EB1F85?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Twitter Badge"/>
-    <img width="125" height="40" src="https://img.shields.io/badge/REACT-EB1F85?style=for-the-badge&logo=react&logoColor=white" alt="Twitter Badge"/>
+    <img width="125" height="40" src="https://img.shields.io/badge/REACT-16ACD1?style=for-the-badge&logo=react&logoColor=white" alt="Twitter Badge"/>
 </div>
 </body>
